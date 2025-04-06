@@ -7,5 +7,5 @@ function Greetings({ name }) {
         <p>This is your first custom component in React.</p>
     </div>
   );
-}
+};
 export default Greetings;
